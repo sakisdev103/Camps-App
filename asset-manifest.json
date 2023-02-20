@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Camps-App/static/css/main.6ff6109d.css",
-    "main.js": "/Camps-App/static/js/main.24732706.js",
+    "main.js": "/Camps-App/static/js/main.d64ec277.js",
     "static/media/Hero Image.jpg": "/Camps-App/static/media/Hero Image.38b8b3fabac0227de377.jpg",
     "static/media/Plum Guide.svg": "/Camps-App/static/media/Plum Guide.d66d3818edbea987a53281009775af02.svg",
     "static/media/Booking.svg": "/Camps-App/static/media/Booking.e1646697164266eaaa49a8759109dae2.svg",
@@ -11,10 +11,10 @@
     "static/media/Search Icon.svg": "/Camps-App/static/media/Search Icon.1c005bdda281922969eb.svg",
     "static/media/Checkmark.svg": "/Camps-App/static/media/Checkmark.fe52f1e33a5ed6f1a2e8613f569a3434.svg",
     "main.6ff6109d.css.map": "/Camps-App/static/css/main.6ff6109d.css.map",
-    "main.24732706.js.map": "/Camps-App/static/js/main.24732706.js.map"
+    "main.d64ec277.js.map": "/Camps-App/static/js/main.d64ec277.js.map"
   },
   "entrypoints": [
     "static/css/main.6ff6109d.css",
-    "static/js/main.24732706.js"
+    "static/js/main.d64ec277.js"
   ]
 }
