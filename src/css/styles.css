@@ -1,0 +1,45 @@
+.success{
+    color: green;
+}
+
+.error{
+    color: red;
+}
+
+.link-camps-container{
+    gap: 0.5rem;
+}
+
+.link-camps-container a{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+
+.individual-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.individual-header p{
+    margin-left: auto;
+}
+
+.add-comment-container{
+    margin: 1rem auto;
+    padding: 2rem 0;
+}
+
+.add-comment{
+    text-decoration: none;
+    border: 1px solid;
+    padding: 1rem;
+}
+
+.comment-container{
+    margin: 1rem auto;
+    border-bottom: 1px solid black;
+}
