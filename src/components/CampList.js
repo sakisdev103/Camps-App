@@ -20,7 +20,7 @@ const CampList = () => {
                 <h1>Welcome to YelpCamp!</h1>
                 <p>View our hard-picked campgrounds from all over the world, or add your own.</p>
                 <input type="search" className="search-bar" onChange={searchBar} value={search} placeholder="Search for camps"/>
-                <Link to="/Campgrounds-App/add">Or add your own campground</Link>
+                <Link to="/Camps-App/add">Or add your own campground</Link>
             </div>
             <div className="mountains-container mountains-container-grid" id="show-content">
                 <ListItems search={search}/>

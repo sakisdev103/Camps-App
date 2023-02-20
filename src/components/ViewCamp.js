@@ -71,10 +71,10 @@ const ViewCamp = () => {
             :null
           }
           <div className="add-comment-container">
-            <Link to={`/Campgrounds-App/comment/${id}`} className="add-comment">Leave a review</Link>
+            <Link to={`/Camps-App/comment/${id}`} className="add-comment">Leave a review</Link>
           </div>
           <div className='link-camps-container'>
-                <Link to='/Campgrounds-App/camplist'>To Campgrounds<img src="https://img.icons8.com/windows/32/null/long-arrow-right.png" alt='icon'/></Link>
+                <Link to='/Camps-App/camplist'>To Campgrounds<img src="https://img.icons8.com/windows/32/null/long-arrow-right.png" alt='icon'/></Link>
             </div>
         </div>
       </div>

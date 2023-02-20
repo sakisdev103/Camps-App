@@ -7,7 +7,7 @@ const Navbar = () => {
     <>
         <nav className="navbar">
             <ul>
-                <Link to='/Campgrounds-App/'><img src={logo} alt=""/></Link>
+                <Link to='/Camps-App/'><img src={logo} alt=""/></Link>
             </ul>
         </nav>  
     </>

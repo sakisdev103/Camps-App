@@ -11,11 +11,11 @@ const App = () => {
   return (
     <BrowserRouter>
       <Routes>
-        <Route exact path='/' element={<Main/>}></Route>
-        <Route path='/Campgrounds-App/camplist' element={<CampList/>}></Route>
-        <Route path='/Campgrounds-App/add' element={<AddCamp/>}></Route>
-        <Route path='/Campgrounds-App/view/:id' element={<ViewCamp/>}></Route>
-        <Route path='/Campgrounds-App/comment/:id' element={<Comment/>}></Route>
+        <Route exact path='/Camps-App' element={<Main/>}></Route>
+        <Route path='/Camps-App/camplist' element={<CampList/>}></Route>
+        <Route path='/Camps-App/add' element={<AddCamp/>}></Route>
+        <Route path='/Camps-App/view/:id' element={<ViewCamp/>}></Route>
+        <Route path='/Camps-App/comment/:id' element={<Comment/>}></Route>
         <Route path='*' element={<Error/>}></Route>
       </Routes>
     </BrowserRouter>

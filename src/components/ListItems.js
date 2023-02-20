@@ -29,7 +29,7 @@ const ListItems = ({search}) => {
                         <h5>{camp.name}</h5>
                         <p>{camp.description}</p>
                         <div className="view-camp">
-                            <Link to={`/Campgrounds-App/view/${camp.id}`}>View Campground</Link>
+                            <Link to={`/Camps-App/view/${camp.id}`}>View Campground</Link>
                         </div>
                     </article>
                 )

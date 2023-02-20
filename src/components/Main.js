@@ -26,7 +26,7 @@ const Main = () => {
                         <img src={CheckMark} alt="" /><p> Leave your reviews and experiences. </p>
                         <img src={CheckMark} alt="" /><p> See locations for all camps. </p>
                     </div>
-                    <Link to="/Campgrounds-App/camplist" className="view-camps">View Campgrounds</Link>
+                    <Link to="/Camps-App/camplist" className="view-camps">View Campgrounds</Link>
                 </main>
                 <footer className="landing-page-footer">
                     <p>Partered with:</p>

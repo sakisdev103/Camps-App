@@ -79,7 +79,7 @@ const Comment = () => {
             </form>
             <h3 className={ !error? `success` : `error` }>{displayMessage}</h3>
             <div className='link-camps-container'>
-                <Link to={`/Campgrounds-App/view/${id}`}>To Camp<img src="https://img.icons8.com/windows/32/null/long-arrow-right.png" alt='icon'/></Link>
+                <Link to={`/Camps-App/view/${id}`}>To Camp<img src="https://img.icons8.com/windows/32/null/long-arrow-right.png" alt='icon'/></Link>
             </div>
         </div>  
     </>

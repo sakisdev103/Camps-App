@@ -6,7 +6,7 @@ const Error = () => {
     <div className='error-page'>
         <h3>The page that are you looking for does not exist</h3>
         <div className="home-btn-container">
-            <Link to='/' className='home-btn'>Back to Home </Link>
+            <Link to='/Camps-App' className='home-btn'>Back to Home </Link>
         </div>
     </div>
   )
